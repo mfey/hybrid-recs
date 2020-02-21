@@ -1,2 +1,3 @@
 # hybrid-recs
-Hybrid Recommenders Workshop
+
+Jupyter notebook for a Hybrid Recommenders Workshop
